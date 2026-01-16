@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nurthure.monitor.app-mergeDebugResources-63:/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\flip-\\.gradle\\caches\\transforms-3\\a7db5010b784b1efa7f563b8269f559d\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,397",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,392,584"
+                    }
+                }
+            ]
+        }
+    ]
+}

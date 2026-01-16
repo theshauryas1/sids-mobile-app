@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nurthure.monitor.app-mergeDebugResources-63:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\flip-\\.gradle\\caches\\transforms-3\\a7db5010b784b1efa7f563b8269f559d\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

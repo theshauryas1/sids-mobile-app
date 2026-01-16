@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color accent_green
+color accent_indigo
+color accent_purple
+color accent_teal
+color alert_critical
+color alert_warning
+color background
+color black
+color card
+color text_muted
+color text_primary
+color text_secondary
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.NurthureMonitor
+xml backup_rules
+xml data_extraction_rules
