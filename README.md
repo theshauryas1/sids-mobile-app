@@ -1,6 +1,6 @@
  Nurthure Monitor
 
-A modern web-based SIDS (Sudden Infant Death Syndrome) monitoring prototype application designed to provide real-time infant monitoring with a calming, anxiety-reducing interface.
+A modern andriod-based SIDS (Sudden Infant Death Syndrome) monitoring prototype application designed to provide real-time infant monitoring with a calming, anxiety-reducing interface.
 
 ## 🌟 Features
 
@@ -78,4 +78,5 @@ Contributions, issues, and feature requests are welcome!
 ---
 
 Made with ❤️ for infant safety
+
 
