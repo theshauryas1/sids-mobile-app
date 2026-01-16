@@ -22,7 +22,7 @@ A modern web-based SIDS (Sudden Infant Death Syndrome) monitoring prototype appl
 
 ### Prerequisites
 
-- Modern web browser (Chrome, Firefox, Safari, Edge)
+- Modern andriod app (Chrome, Firefox, Safari, Edge)
 - Raspberry Pi with sensors (for hardware integration)
 
 ### Running Locally
@@ -78,3 +78,4 @@ Contributions, issues, and feature requests are welcome!
 ---
 
 Made with ❤️ for infant safety
+
